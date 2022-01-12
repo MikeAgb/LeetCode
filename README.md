@@ -23,3 +23,13 @@ Given a string s and an integer k, return the length of the longest substring of
 There is an m x n grid with a ball. The ball is initially at the position [startRow, startColumn]. You are allowed to move the ball to one of the four adjacent cells in the grid (possibly out of the grid crossing the grid boundary). You can apply at most maxMove moves to the ball.
 
 Given the five integers m, n, maxMove, startRow, startColumn, return the number of paths to move the ball out of the grid boundary. Since the answer can be very large, return it modulo 109 + 7.
+
+### 651. 4 Keys Keyboard
+
+Imagine you have a special keyboard with the following keys:
+
+A: Print one 'A' on the screen.
+Ctrl-A: Select the whole screen.
+Ctrl-C: Copy selection to buffer.
+Ctrl-V: Print buffer on screen appending it after what has already been printed.
+Given an integer n, return the maximum number of 'A' you can print on the screen with at most n presses on the keys.
