@@ -11,6 +11,12 @@ There is a robot on an m x n grid. The robot is initially located at the top-lef
 
 Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
 
+## 73. Set Matrix Zeroes (Medium)
+
+Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's, and return the matrix.
+
+You must do it in place.
+
 ## 161. One Edit Distance (Medium)
 
 Given two strings s and t, return true if they are both one edit distance apart, otherwise return false.
