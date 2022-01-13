@@ -11,6 +11,16 @@ Insert exactly one character into s to get t.
 Delete exactly one character from s to get t.
 Replace exactly one character of s with a different character to get t
 
+## 187. Repeated DNA Sequences
+
+The DNA sequence is composed of a series of nucleotides abbreviated as 'A', 'C', 'G', and 'T'.
+
+For example, "ACGAATTCCG" is a DNA sequence.
+When studying DNA, it is useful to identify repeated sequences within the DNA.
+
+Given a string s that represents a DNA sequence, return all the 10-letter-long sequences (substrings) that occur more than once in a DNA molecule. You may return the answer in any order.
+
+
 ## 361. Bomb Enemy
 
 Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or empty '0', return the maximum enemies you can kill using one bomb. You can only place the bomb in an empty cell.
