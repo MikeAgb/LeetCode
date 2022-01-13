@@ -5,6 +5,12 @@ A collection of some of my solutions to several LeetCode problems.
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
 
+## 62. Unique Paths (Medium)
+
+There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.
+
+Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
+
 ## 161. One Edit Distance (Medium)
 
 Given two strings s and t, return true if they are both one edit distance apart, otherwise return false.
