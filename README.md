@@ -232,7 +232,10 @@ Given an integer array nums, return an array answer such that answer[i] is equal
 The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
 You must write an algorithm that runs in O(n) time and without using the division operation.
 
+## 261. Graph Valid Tree (Medium)
 
+You have a graph of n nodes labeled from 0 to n - 1. You are given an integer n and a list of edges where edges[i] = [ai, bi] indicates that there is an undirected edge between nodes ai and bi in the graph.
+Return true if the edges of the given graph make up a valid tree, and false otherwise.
 
 ## 361. Bomb Enemy (Medium)
 
