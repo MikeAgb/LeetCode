@@ -50,6 +50,10 @@ You have to rotate the image in-place, which means you have to modify the input 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
+## 50. Pow(x, n)
+
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
