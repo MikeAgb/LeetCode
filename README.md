@@ -5,6 +5,10 @@ A collection of some of my solutions to several LeetCode problems.
 
 Given a string s, find the length of the longest substring without repeating characters.
 
+## 5. Longest Palindromic Substring
+
+Given a string s, return the longest palindromic substring in s.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
