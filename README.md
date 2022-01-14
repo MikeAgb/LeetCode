@@ -16,6 +16,12 @@ Find two lines that together with the x-axis form a container, such that the con
 Return the maximum amount of water a container can store.
 Notice that you may not slant the container.
 
+## 15. 3Sum (Medium)
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+Notice that the solution set must not contain duplicate triplets.
+
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
