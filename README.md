@@ -60,6 +60,14 @@ Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
 
+## 57. Insert Interval (Medium)
+
+You are given an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] represent the start and the end of the ith interval and intervals is sorted in ascending order by starti. You are also given an interval newInterval = [start, end] that represents the start and end of another interval.
+
+Insert newInterval into intervals such that intervals is still sorted in ascending order by starti and intervals still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return intervals after the insertion.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
