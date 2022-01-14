@@ -56,6 +56,10 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
+## 56. Merge Intervals (Medium)
+
+Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
