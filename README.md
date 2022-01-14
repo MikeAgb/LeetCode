@@ -99,6 +99,10 @@ We will use the integers 0, 1, and 2 to represent the color red, white, and blue
 
 You must solve this problem without using the library's sort function.
 
+## 82. Remove Duplicates from Sorted List II
+
+Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+
 ## 161. One Edit Distance (Medium)
 
 Given two strings s and t, return true if they are both one edit distance apart, otherwise return false.
