@@ -45,6 +45,11 @@ Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise)
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
 
+## 49. Group Anagrams
+
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
