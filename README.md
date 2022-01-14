@@ -91,6 +91,14 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 Integers in each row are sorted from left to right.
 The first integer of each row is greater than the last integer of the previous row.
 
+## 75. Sort Colors (Medium)
+
+Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+
+We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.
+
+You must solve this problem without using the library's sort function.
+
 ## 161. One Edit Distance (Medium)
 
 Given two strings s and t, return true if they are both one edit distance apart, otherwise return false.
