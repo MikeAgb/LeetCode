@@ -1,5 +1,5 @@
 
-A collection of some of my solutions to several LeetCode problems.
+A collection of some of my solutions to several LeetCode problems in java/python
 
 ## 3. Longest Substring Without Repeating Characters (Medium)
 
