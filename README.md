@@ -249,6 +249,12 @@ Any live cell with more than three live neighbors dies, as if by over-population
 Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 The next state is created by applying the above rules simultaneously to every cell in the current state, where births and deaths occur simultaneously. Given the current state of the m x n grid board, return the next state.
 
+## 300. Longest Increasing Subsequence (Medium)
+
+Given an integer array nums, return the length of the longest strictly increasing subsequence.
+
+A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing the order of the remaining elements. For example, [3,6,2,7] is a subsequence of the array [0,3,1,6,2,2,7].
+
 ## 361. Bomb Enemy (Medium)
 
 Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or empty '0', return the maximum enemies you can kill using one bomb. You can only place the bomb in an empty cell.
