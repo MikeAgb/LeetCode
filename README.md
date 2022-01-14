@@ -1,6 +1,10 @@
 
 A collection of some of my solutions to several LeetCode problems.
 
+## 3. Longest Substring Without Repeating Characters
+
+Given a string s, find the length of the longest substring without repeating characters.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
