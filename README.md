@@ -99,9 +99,19 @@ We will use the integers 0, 1, and 2 to represent the color red, white, and blue
 
 You must solve this problem without using the library's sort function.
 
-## 82. Remove Duplicates from Sorted List II
+## 82. Remove Duplicates from Sorted List II (Medium)
 
 Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+
+## 98. Validate Binary Search Tree (Medium)
+
+Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+
+A valid BST is defined as follows:
+
+The left subtree of a node contains only nodes with keys less than the node's key.
+The right subtree of a node contains only nodes with keys greater than the node's key.
+Both the left and right subtrees must also be binary search trees.
 
 ## 161. One Edit Distance (Medium)
 
