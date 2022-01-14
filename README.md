@@ -21,11 +21,11 @@ Notice that you may not slant the container.
 Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 Notice that the solution set must not contain duplicate triplets.
 
-## 22. Generate Parentheses
+## 22. Generate Parentheses (Medium)
 
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
-## 34. Find First and Last Position of Element in Sorted Array
+## 34. Find First and Last Position of Element in Sorted Array (Medium)
 
 Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
 If target is not found in the array, return [-1, -1].
