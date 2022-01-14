@@ -222,6 +222,10 @@ Given an integer array nums and an integer k, return the kth largest element in 
 
 Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
+## 230. Kth Smallest Element in a BST (Medium)
+
+Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.
+
 ## 361. Bomb Enemy (Medium)
 
 Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or empty '0', return the maximum enemies you can kill using one bomb. You can only place the bomb in an empty cell.
