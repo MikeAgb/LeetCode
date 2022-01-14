@@ -255,6 +255,12 @@ Given an integer array nums, return the length of the longest strictly increasin
 
 A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing the order of the remaining elements. For example, [3,6,2,7] is a subsequence of the array [0,3,1,6,2,2,7].
 
+## 322. Coin Change (Medium)
+
+You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
+Return the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
+You may assume that you have an infinite number of each kind of coin.
+
 ## 361. Bomb Enemy (Medium)
 
 Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or empty '0', return the maximum enemies you can kill using one bomb. You can only place the bomb in an empty cell.
