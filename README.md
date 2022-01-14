@@ -216,6 +216,12 @@ You are a professional robber planning to rob houses along a street. Each house 
 
 Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police.
 
+## 215. Kth Largest Element in an Array (Medium)
+
+Given an integer array nums and an integer k, return the kth largest element in the array.
+
+Note that it is the kth largest element in the sorted order, not the kth distinct element.
+
 ## 361. Bomb Enemy (Medium)
 
 Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or empty '0', return the maximum enemies you can kill using one bomb. You can only place the bomb in an empty cell.
