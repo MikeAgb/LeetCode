@@ -25,6 +25,13 @@ Notice that the solution set must not contain duplicate triplets.
 
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
+## 34. Find First and Last Position of Element in Sorted Array
+
+Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
+If target is not found in the array, return [-1, -1].
+
+You must write an algorithm with O(log n) runtime complexity.
+
 ## 59. Spiral Matrix II (Medium)
 
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
