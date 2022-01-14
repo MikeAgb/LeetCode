@@ -277,6 +277,12 @@ Given an array of distinct integers nums and a target integer target, return the
 
 The test cases are generated so that the answer can fit in a 32-bit integer.
 
+## 378. Kth Smallest Element in a Sorted Matrix (Medium)
+
+Given an n x n matrix where each of the rows and columns is sorted in ascending order, return the kth smallest element in the matrix.
+Note that it is the kth smallest element in the sorted order, not the kth distinct element.
+You must find a solution with a memory complexity better than O(n2).
+
 ## 395. Longest Substring with At Least K Repeating Characters (Medium)
 
 Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
