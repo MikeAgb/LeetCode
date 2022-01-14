@@ -271,6 +271,12 @@ Given an m x n matrix grid where each cell is either a wall 'W', an enemy 'E' or
 
 The bomb kills all the enemies in the same row and column from the planted point until it hits the wall since it is too strong to be destroyed.
 
+## 377. Combination Sum IV (Medium)
+
+Given an array of distinct integers nums and a target integer target, return the number of possible combinations that add up to target.
+
+The test cases are generated so that the answer can fit in a 32-bit integer.
+
 ## 395. Longest Substring with At Least K Repeating Characters (Medium)
 
 Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
