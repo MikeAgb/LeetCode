@@ -40,12 +40,12 @@ Each row must contain the digits 1-9 without repetition.
 Each column must contain the digits 1-9 without repetition.
 Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 
-## 48. Rotate Image
+## 48. Rotate Image (Medium)
 
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise)
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
 
-## 49. Group Anagrams
+## 49. Group Anagrams (Medium)
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
