@@ -283,6 +283,17 @@ Given an n x n matrix where each of the rows and columns is sorted in ascending 
 Note that it is the kth smallest element in the sorted order, not the kth distinct element.
 You must find a solution with a memory complexity better than O(n2).
 
+## 380. Insert Delete GetRandom O(1) (Medium)
+
+Implement the RandomizedSet class:
+
+RandomizedSet() Initializes the RandomizedSet object.
+bool insert(int val) Inserts an item val into the set if not present. Returns true if the item was not present, false otherwise.
+bool remove(int val) Removes an item val from the set if present. Returns true if the item was present, false otherwise.
+int getRandom() Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). Each element must have the same probability of being returned.
+You must implement the functions of the class such that each function works in average O(1) time complexity.
+
+
 ## 395. Longest Substring with At Least K Repeating Characters (Medium)
 
 Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
