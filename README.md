@@ -113,6 +113,10 @@ The left subtree of a node contains only nodes with keys less than the node's ke
 The right subtree of a node contains only nodes with keys greater than the node's key.
 Both the left and right subtrees must also be binary search trees.
 
+## 99. Recover Binary Search Tree (Medium)
+
+You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
+
 ## 161. One Edit Distance (Medium)
 
 Given two strings s and t, return true if they are both one edit distance apart, otherwise return false.
