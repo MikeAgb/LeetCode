@@ -1,15 +1,15 @@
 
 A collection of some of my solutions to several LeetCode problems.
 
-## 3. Longest Substring Without Repeating Characters
+## 3. Longest Substring Without Repeating Characters (Medium)
 
 Given a string s, find the length of the longest substring without repeating characters.
 
-## 5. Longest Palindromic Substring
+## 5. Longest Palindromic Substring (Medium)
 
 Given a string s, return the longest palindromic substring in s.
 
-## 11. Container With Most Water
+## 11. Container With Most Water (Medium)
 
 You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
