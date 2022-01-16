@@ -321,7 +321,6 @@ A string is a palindrome when it reads the same backward as forward.
 A substring is a contiguous sequence of characters within the string.
 
 
-
 ## 651. 4 Keys Keyboard (Medium)
 
 Imagine you have a special keyboard with the following keys:
@@ -331,6 +330,11 @@ Ctrl-A: Select the whole screen.
 Ctrl-C: Copy selection to buffer.
 Ctrl-V: Print buffer on screen appending it after what has already been printed.
 Given an integer n, return the maximum number of 'A' you can print on the screen with at most n presses on the keys.
+
+## 670. Maximum Swap (Medium)
+
+You are given an integer num. You can swap two digits at most once to get the maximum valued number.
+Return the maximum valued number you can get.
 
 ## 1229. Meeting Scheduler (Medium)
 
