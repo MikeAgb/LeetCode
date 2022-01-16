@@ -314,6 +314,14 @@ You are given a string s and an integer k. You can choose any character of the s
 
 Return the length of the longest substring containing the same letter you can get after performing the above operations.
 
+## 647. Palindromic Substrings (Medium)
+
+Given a string s, return the number of palindromic substrings in it.
+A string is a palindrome when it reads the same backward as forward.
+A substring is a contiguous sequence of characters within the string.
+
+
+
 ## 651. 4 Keys Keyboard (Medium)
 
 Imagine you have a special keyboard with the following keys:
