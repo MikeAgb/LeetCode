@@ -308,6 +308,12 @@ The island receives a lot of rain, and the rain water can flow to neighboring ce
 
 Return a 2D list of grid coordinates result where result[i] = [ri, ci] denotes that rain water can flow from cell (ri, ci) to both the Pacific and Atlantic oceans.
 
+## 424. Longest Repeating Character Replacement (Medium)
+
+You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times.
+
+Return the length of the longest substring containing the same letter you can get after performing the above operations.
+
 ## 651. 4 Keys Keyboard (Medium)
 
 Imagine you have a special keyboard with the following keys:
