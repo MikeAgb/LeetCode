@@ -40,6 +40,10 @@ Each row must contain the digits 1-9 without repetition.
 Each column must contain the digits 1-9 without repetition.
 Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 
+## 46. Permutations (Medium)
+
+Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+
 ## 48. Rotate Image (Medium)
 
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise)
