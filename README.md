@@ -103,6 +103,12 @@ We will use the integers 0, 1, and 2 to represent the color red, white, and blue
 
 You must solve this problem without using the library's sort function.
 
+## 78 subsets
+
+Given an integer array nums of unique elements, return all possible subsets (the power set).
+
+The solution set must not contain duplicate subsets. Return the solution in any order.
+
 ## 82. Remove Duplicates from Sorted List II (Medium)
 
 Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
