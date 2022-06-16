@@ -109,6 +109,12 @@ Given an integer array nums of unique elements, return all possible subsets (the
 
 The solution set must not contain duplicate subsets. Return the solution in any order.
 
+## 79. Word Search
+
+Given an m x n grid of characters board and a string word, return true if word exists in the grid.
+
+The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+
 ## 82. Remove Duplicates from Sorted List II (Medium)
 
 Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
